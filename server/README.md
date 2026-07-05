@@ -1,6 +1,6 @@
 # Server Layer
 
-This directory documents the backend architecture used by Blizzle.
+This directory documents the backend server architecture used by Blizzle.
 
 The Blizzle server layer supports the platform's API routes, authentication flow, wallet services, blockchain transaction handling, reward processing, membership status checks, Java blockchain runtime calls, and supporting automation scripts.
 
@@ -17,7 +17,7 @@ The Blizzle server layer supports the platform's API routes, authentication flow
 * `js/` — supporting backend JavaScript modules
 * `scripts/` — operational scripts and maintenance utilities
 
-## Runtime Overview
+## Backend Runtime Overview
 
 Blizzle uses a Node.js backend together with a Java blockchain runtime. The Node.js layer handles application requests, API routing, user actions, reward events, wallet access, and service integration. The Java runtime is responsible for blockchain-specific operations such as transaction recording, block handling, wallet transaction retrieval, and blockchain data output.
 
