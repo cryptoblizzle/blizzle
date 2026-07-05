@@ -33,10 +33,13 @@ The backend supports:
 * educational reward transactions
 * Proof-of-Work mining reward flows
 * user-to-user BLZL transfer settlement
+* Blizzle Gold membership and BLZL utility service flows
 * blockchain visualization data
 * membership and platform service status checks
 
 Accepted user-to-user BLZL transfers are treated as real platform transactions. Once accepted, they are recorded through the blockchain-compatible transaction flow and become visible in wallet history and blockchain visualization.
+
+Blizzle Gold membership and BLZL utility service flows further connect wallet activity, platform participation, and premium educational services within the Blizzle ecosystem, helping complete the platform's closed-loop economy.
 
 ## Security Note
 
